@@ -1,0 +1,7 @@
+copertine
+pdf
+*.jpg
+*.jpeg
+*.bak
+connection.*
+gitignore
