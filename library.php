@@ -69,9 +69,9 @@ mysqli_free_result($result);
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;";
 
 
-const USERNAME = "root";
-const PASSWORD = "delphi";
-const DATABASENAME = "biblioteca";
+const USERNAME = "xxx";
+const PASSWORD = "xxx";
+const DATABASENAME = "xxx";
 private $conn;
 $db = mysqli_connect('localhost', USERNAME, PASSWORD, DATABASENAME);
 
